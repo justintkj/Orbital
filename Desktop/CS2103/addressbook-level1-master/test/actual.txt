@@ -1,0 +1,50 @@
+|| ===================================================
+|| ===================================================
+|| AddessBook Level 1 - Version 1.0
+|| Welcome to your Address Book!
+|| ===================================================
+|| ===================================================
+|| ===================================================
+|| AddessBook Level 1 - Version 1.0
+|| Welcome to your Address Book!
+|| ===================================================
+|| ===================================================
+|| ===================================================
+|| AddessBook Level 1 - Version 1.0
+|| Welcome to your Address Book!
+|| ===================================================
+|| ===================================================
+|| ===================================================
+|| AddessBook Level 1 - Version 1.0
+|| Welcome to your Address Book!
+|| ===================================================
+|| ===================================================
+|| ===================================================
+|| AddessBook Level 1 - Version 1.0
+|| Welcome to your Address Book!
+|| ===================================================
+|| Enter command: || [Command entered:exit]
+|| Exiting Address Book... Good bye!
+|| ===================================================
+|| ===================================================
+|| ===================================================
+|| ===================================================
+|| AddessBook Level 1 - Version 1.0
+|| Welcome to your Address Book!
+|| ===================================================
+|| Using default storage file : addressbook.txt
+|| Enter command: || [Command entered:add Valid Name p/12345 valid@email.butNoPrefix]
+|| Invalid command format: add 
+|| add: Adds a person to the address book.
+|| 	Parameters: NAME p/PHONE_NUMBER e/EMAIL
+|| 	Example: addJohn Doe \p98765432 \ejohn.doe@email.com
+|| 
+|| ===================================================
+|| Enter command: || [Command entered:add Valid Name 12345 e/valid@email.butPhonePrefixMissing]
+|| Invalid command format: add 
+|| add: Adds a person to the address book.
+|| 	Parameters: NAME p/PHONE_NUMBER e/EMAIL
+|| 	Example: addJohn Doe \p98765432 \ejohn.doe@email.com
+|| 
+|| ===================================================
+|| Enter command: 
